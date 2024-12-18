@@ -190,7 +190,7 @@ global.rpg = {
 }
 
 //new
-global.prefix = ['!','.','#','&']
+global.prefix = [',']
 global.sessionName = 'session'
 global.hituet = 0
 //media target
